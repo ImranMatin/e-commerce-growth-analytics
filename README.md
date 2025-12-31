@@ -7,6 +7,10 @@ A high-fidelity, professional E-commerce Analytics Dashboard for tracking sales 
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?style=for-the-badge&logo=tailwindcss)
 
+# Project Demo
+
+https://ecommerce-growth-analytics.lovable.app/
+
 ## ✨ Features
 
 - **Total Revenue Chart** - Interactive 12-month trend visualization with revenue and orders data
